@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "591904565893",
+    "firebase_url": "https://callingapp1-f699d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "callingapp1-f699d",
+    "storage_bucket": "callingapp1-f699d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591904565893:android:3c77137688a612267ad7ec",
+        "android_client_info": {
+          "package_name": "com.callingapp.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-nR8bQNMwxcUN16_mICpcwJ9dDBv9cBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

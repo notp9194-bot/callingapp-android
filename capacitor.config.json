@@ -1,0 +1,14 @@
+{
+  "appId": "com.callingapp.pro",
+  "appName": "CallingApp Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
